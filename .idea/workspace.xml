@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8a74d27-dcaf-4a1d-9e83-3d8c20090992" name="変更" comment="堀" />
+    <list default="true" id="c8a74d27-dcaf-4a1d-9e83-3d8c20090992" name="変更" comment="堀">
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Fool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kadai3/Matango.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter11.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abcdef-21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abcdef-21&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abcdef-21/chapter11.git",
-    "accountId": "c717a798-d447-42c1-bdc5-02c07279d98a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abcdef-21/chapter11.git&quot;,
+    &quot;accountId&quot;: &quot;c717a798-d447-42c1-bdc5-02c07279d98a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2yZRIF8v6uXo3pmKfw6PD1MNHIl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +53,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/241104/IdeaProjects/chapter11/src/kadai2",
@@ -55,7 +65,8 @@
     "onboarding.tips.debug.path": "C:/Users/241104/IdeaProjects/chapter11/src/Main.java",
     "vue.rearranger.settings.migration": "true",
     "アプリケーション.Main.executor": "Run",
-    "アプリケーション.Main2.executor": "Run"
+    "アプリケーション.Main2.executor": "Run",
+    "アプリケーション.kadai3.Main.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,7 +74,7 @@
       <recent name="C:\Users\241104\IdeaProjects\chapter11\src\kadai2" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Main2">
+  <component name="RunManager" selected="アプリケーション.kadai3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kadai1.Main" />
       <module name="chapter11" />
@@ -90,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kadai3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kadai3.Main" />
+      <module name="chapter11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kadai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.kadai3.Main" />
         <item itemvalue="アプリケーション.Main2" />
         <item itemvalue="アプリケーション.Main" />
       </list>
@@ -113,6 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750040033261</updated>
       <workItem from="1750040038338" duration="3724000" />
+      <workItem from="1750206142686" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="堀">
       <option name="closed" value="true" />
@@ -122,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750043243194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="堀">
+      <option name="closed" value="true" />
+      <created>1750206215957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750206215957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
