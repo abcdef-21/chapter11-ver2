@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8a74d27-dcaf-4a1d-9e83-3d8c20090992" name="変更" comment="" />
+    <list default="true" id="c8a74d27-dcaf-4a1d-9e83-3d8c20090992" name="変更" comment="堀" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "abcdef-21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abcdef-21/chapter11.git",
+    "accountId": "c717a798-d447-42c1-bdc5-02c07279d98a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -32,6 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/241104/IdeaProjects/chapter11/src/kadai2",
     "node.js.detected.package.eslint": "true",
@@ -99,8 +112,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750040033261</updated>
-      <workItem from="1750040038338" duration="3035000" />
+      <workItem from="1750040038338" duration="3724000" />
     </task>
+    <task id="LOCAL-00001" summary="堀">
+      <option name="closed" value="true" />
+      <created>1750043243194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750043243194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +138,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="堀" />
+    <option name="LAST_COMMIT_MESSAGE" value="堀" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
